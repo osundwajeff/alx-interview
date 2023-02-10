@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 """N_queens"""
+
 import sys
 
 
